@@ -100,5 +100,11 @@ main article p {
   margin: 0;
   max-width: 700px;
 }
-
+#preloader{
+    background: #c81e2c url("Flag_of_Lebanon.gif") no-repeat center center;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-size: 100%;
+}
 
